@@ -8,8 +8,8 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Load your dataset (replace 'your_dataset.csv' with the actual file path)
-# df = pd.read_csv('your_dataset.csv')
+# Load my Example data for project
+# df = pd.read_csv('example_dataset.csv')
 
 # Example data for project
 data = {
